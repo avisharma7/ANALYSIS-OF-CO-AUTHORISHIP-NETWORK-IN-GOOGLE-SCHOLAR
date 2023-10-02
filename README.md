@@ -66,36 +66,6 @@ The system comprises three main components: the web scraper, network generator, 
 
 The co-authorship network is visualized to facilitate pattern observation. Node sizes in the graph are determined by node degree, aiding in the visualization of the network's structure.
 
-## Getting Started
 
-To get started with this project:
 
-1. Clone the repository to your local machine.
 
-2. Ensure you have the necessary Python libraries installed, including Beautiful Soup, requests, and networkx.
-
-3. Configure the web scraper module to specify the Google Scholar author profiles you want to scrape.
-
-4. Run the project to collect data, generate the network, analyze centrality measures, and visualize the results.
-
-## Contribution Guidelines
-
-If you'd like to contribute to this project, please follow these guidelines:
-
-1. Fork the repository on GitHub.
-
-2. Create a feature branch for your contributions.
-
-3. Submit a pull request detailing the changes you've made and their purpose.
-
-4. Ensure your code is well-documented and adheres to coding best practices.
-
-## Support
-
-For any questions, issues, or assistance with using this project, please feel free to reach out to the project maintainers.
-
-Thank you for your interest in the Co-Authorship Network Analysis project!
-
---- 
-
-*Note: This readme provides a general structure and description of the project. Ensure that you update the document with specific details, such as installation instructions and contact information, as needed for your project.*
